@@ -32,10 +32,17 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ShubhamSarda">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdelhamidYousef&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdelhamidYousef&layout=compact&langs_count=8&theme=dark"/>
+<a href="https://github.com/AbdelhamidYousef">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdelhamidYousef&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdelhamidYousef&layout=compact&langs_count=8&theme=github_dark"/>
 </a>
 </p>
 
 ---
+
+### 🤝 &nbsp;Connect with Me 
+
+<p align="left" >
+<a href="https://abdelhamid99.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/- Portfolio -333333"></a>
+<a href="https://www.linkedin.com/in/abdulhamidyousef/"><img alt="LinkedIn" src="https://img.shields.io/badge/- LinkedIn -blue"></a>
+</p>
