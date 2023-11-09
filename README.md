@@ -33,8 +33,8 @@
 
 <p align="center">
 <a href="https://github.com/AbdelhamidYousef">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdelhamidYousef&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdelhamidYousef&layout=compact&langs_count=8&theme=github_dark"/>
+  <img width="400px" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdelhamidYousef&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="400px" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdelhamidYousef&layout=compact&langs_count=8&theme=github_dark"/>
 </a>
 </p>
 
