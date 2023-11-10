@@ -1,10 +1,13 @@
-## Welcome to My Account 👋
+## <div align="center">Hi, I'm Abdulhamid, a frontend developer based in Egypt with a strong passion for web development 👩‍💻</div>
 
-### 👩‍💻 &nbsp;About Me
+</br>
+- 🏵️ You can check my personal website [here](https://abdelhamid99.netlify.app/)
 
-- 💻 &nbsp; Frontend Developer | React Developer.
-- 😩 &nbsp; Learning more about Backend Technologies (starting with PHP and Laravel).
+- 😩 &nbsp; I'm currently learning more about PHP and Laravel.
+  
 - ⚡️ &nbsp; Fun fact: I like chatting 😄.
+
+</br>
 
 ---
 
@@ -29,20 +32,33 @@
 ---
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
 <a href="https://github.com/AbdelhamidYousef">
-  <img width="400px" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdelhamidYousef&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="400px" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdelhamidYousef&layout=compact&langs_count=8&theme=github_dark"/>
+  <img width="400px" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbdelhamidYousef&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img width="400px" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdelhamidYousef&layout=compact&langs_count=8&theme=calm"/>
 </a>
-</p>
+</div>
 
 ---
 
 ### 🤝 &nbsp;Connect with Me 
 
-<p align="left" >
-<a href="https://abdelhamid99.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/- Portfolio -333333"></a>
-<a href="https://www.linkedin.com/in/abdulhamidyousef/"><img alt="LinkedIn" src="https://img.shields.io/badge/- LinkedIn -blue"></a>
-</p>
+</br>
+<a href="https://abdelhamid99.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Website-eeeeee?&style=for-the-badge&logo=web&logoColor=black" alt="Portfolio" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdulhamidyousef/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" alt="Linkedin" />
+</a>
+</br>
+
+<!--
+## Visitor count 👁️‍🗨️
+
+<br/>  
+<div align="center"><img src="https://profile-counter.glitch.me/{AbdelhamidYousef}/count.svg" /></div>  
+<br/>  
+-->
