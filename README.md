@@ -3,7 +3,7 @@
   
 - 🏵️ You can check my personal website [here](https://abdelhamid99.netlify.app/).  
  
-- 😩 I'm currently learning more about PHP and Laravel.  
+- 😩 I'm currently diving into Adobe Analytics.  
   
 - ⚡️ Fun fact: I like chatting 😄.
 
