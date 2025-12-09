@@ -1,7 +1,7 @@
 ## <div align="center">Hi, I'm Abdulhamid, a frontend developer based in Egypt with a strong passion for web development 👩‍💻</div>
 
   
-- 🏵️ You can check my personal website [here](https://abdelhamid99.netlify.app/).  
+- 🏵️ You can check <a href="https://www.linkedin.com/in/abdelhamidy/" target="_blank">My LinkedIn</a> or <a href="https://abdelhamid99.netlify.app/" target="_blank">My Personal Website</a>.  
  
 - 😩 I'm currently diving into Adobe Analytics.  
   
@@ -14,17 +14,22 @@
 
 ## 🛠 &nbsp;Languages and Tools
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+  ![Adobe Target](https://img.shields.io/badge/-Adobe%20Target-333333?style=flat&logo=adobe&logoColor=FF0000)
+  ![Adobe Analytics](https://img.shields.io/badge/-Adobe%20Analytics-333333?style=flat&logo=adobe&logoColor=FF0000)
+  ![Adobe Audience Manager](https://img.shields.io/badge/-Adobe%20Audience%20Manager-333333?style=flat&logo=adobe&logoColor=FF0000)
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React JS](https://img.shields.io/badge/-React%20JS-092E20?style=flat&logo=react)
   ![React Router](https://img.shields.io/badge/-React%20Router-092E20?style=flat&logo=reactrouter)
   ![Redux](https://img.shields.io/badge/-Redux-092E20?style=flat&logo=redux&logoColor=00a7e5)
   ![React Query](https://img.shields.io/badge/-React%20Query-092E20?style=flat&logo=reactquery&logoColor=ff4154)  
+  
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-092E20?style=flat&logo=tailwindcss)
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-092E20?style=flat&logo=styledcomponents)
   ![SASS](https://img.shields.io/badge/-sass-333333?style=flat&logo=sass)
   ![CSS Modules](https://img.shields.io/badge/-css%20modules-333333?style=flat&logo=cssmodules)   
+
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -51,7 +56,7 @@
 <img src="https://img.shields.io/badge/Website-eeeeee?&style=for-the-badge&logo=web&logoColor=black" alt="Portfolio" />
 </a>
 
-<a href="https://www.linkedin.com/in/abdulhamidyousef/" target="_blank">
+<a href="https://www.linkedin.com/in/abdelhamidy/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" alt="Linkedin" />
 </a>
 </br>
