@@ -1,12 +1,10 @@
-## <div align="center">Hi, I'm Abdulhamid, a frontend developer based in Egypt with a strong passion for web development 👩‍💻</div>
+## <div align="center">Hi, I'm Abdulhamid, an Adobe Target Specialist based in Egypt with a strong passion for web development 👩‍💻</div>
 
   
-- 🏵️ You can check <a href="https://www.linkedin.com/in/abdelhamidy/" target="_blank">My LinkedIn</a> or <a href="https://abdelhamid99.netlify.app/" target="_blank">My Personal Website</a>.  
+/*- 🏵️ You can check <a href="https://www.linkedin.com/in/abdelhamidy/" target="_blank">My LinkedIn</a> or <a href="https://abdelhamid99.netlify.app/" target="_blank">My Personal Website</a>.  */
  
 - 😩 I'm currently diving into Adobe Analytics.  
   
-- ⚡️ Fun fact: I like chatting 😄.
-
 </br>
   
 ---
